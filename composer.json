@@ -1,6 +1,12 @@
 {
     "name": "gratasuk/artisan-vue-make",
     "description": "Add artisan make:vue-component to artisan commands",
+        "keywords": [
+            "artisan",
+            "laravel",
+            "vue",
+            "component generator"
+        ],
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +15,7 @@
         }
     ],
     "require": {
-            "php": "^7.2.5"
+            "php": "^7.1.3"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
